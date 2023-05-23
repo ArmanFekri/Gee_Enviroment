@@ -1,5 +1,3 @@
-# Gee_Enviroment
-
 # About the Code
 in in code you can script file of download satellite image in google earth engine
 

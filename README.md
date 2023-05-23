@@ -1,5 +1,5 @@
 # About the Code
-in in code you can script file of download satellite image in google earth engine
+In this file, you can download satellite images using the specified code in the google earth engine
 
 # How to use
 1) open script in the google earth engine 
